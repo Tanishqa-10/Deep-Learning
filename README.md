@@ -47,7 +47,7 @@ pip install numpy pandas tensorflow matplotlib scikit-learn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dhruva0101/NNDL-projects.git
+   git clone https://github.com/Tanishqa-10/NNDL-projects.git
    ```
 2. Navigate to the project folder and open any Jupyter Notebook file:
    ```bash
